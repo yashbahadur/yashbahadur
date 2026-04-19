@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Yash Bahadur
 
-<!--
-**yashbahadur/yashbahadur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 High School Graduate  
+💻 Beginner Developer | Learning Step by Step  
+🚀 Future Entrepreneur | Building AI Projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 About Me
+
+I am a beginner in coding, currently learning and building projects using:
+- Python
+- HTML / CSS
+- Java (Basics)
+- SQL (Basics)
+
+My goal is to become an **AI Developer + Entrepreneur** and build solutions that help society in smart and simple ways.
+
+---
+
+## 🔹 What I'm Doing Right Now
+
+- Learning programming step by step
+- Building small projects
+- Uploading projects on GitHub
+- Improving my skills daily
+
+---
+
+## 🔹 My Goals
+
+- Build AI-based projects 🤖  
+- Become a strong developer 💻  
+- Launch my own startup 🚀  
+- Help people using technology 🌍  
+
+---
+
+## 🔹 My Projects
+
+👉 (Add your project links here later)
+
+Example:
+- Project 1: [Calculator App](#)
+- Project 2: [To-Do List](#)
+
+---
+
+## 🔹 Connect With Me
+
+- LinkedIn: (add later)
+- GitHub: https://github.com/yourusername
+
+---
+
+⭐ *This is just the beginning. I am learning, building, and growing every day.*
