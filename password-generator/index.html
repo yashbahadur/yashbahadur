@@ -1,1 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Password Generator</title>
+    <style>
+        body {
+            font-family: Arial;
+            text-align: center;
+            background-color: #0a192f;
+            color: white;
+            margin-top: 100px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #64ffda;
+            border: none;
+            cursor: pointer;
+        }
+        input {
+            padding: 10px;
+            font-size: 16px;
+            width: 250px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
 
+    <h1>🔐 Secure Password Generator</h1>
+
+    <p>Select Length (8–12):</p>
+    <input type="number" id="length" min="8" max="12" value="10">
+
+    <br><br>
+
+    <button onclick="generatePassword()">Generate Password</button>
+
+    <br><br>
+
+    <input type="text" id="password" readonly>
+
+    <script>
+        function generatePassword() {
+            let length = document.getElementById("length").value;
+            let chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*";
+            let password = "";
+
+            for (let i = 0; i < length; i++) {
+                let randomIndex = Math.floor(Math.random() * chars.length);
+                password += chars[randomIndex];
+            }
+
+            document.getElementById("password").value = password;
+        }
+    </script>
+
+</body>
+</html>
