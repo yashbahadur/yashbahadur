@@ -41,15 +41,15 @@ My goal is to become an **AI Developer + Entrepreneur** and build solutions that
 👉 (Add your project links here later)
 
 Example:
-- Project 1: [Calculator App](#)
-- Project 2: [To-Do List](#)
+- Project 1: 
+- Project 2: 
 
 ---
 
 ## 🔹 Connect With Me
 
 - LinkedIn: (add later)
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/yashbahadur
 
 ---
 
